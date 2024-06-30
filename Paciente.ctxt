@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=n\ p\ m\ s\ nss\ e
+comment1.target=Paciente(java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ java.lang.String,\ int)
+comment1.text=Inicializa\ los\ atributos\ de\ la\ clase,\ recibiendo\ 4\ en\ su\ par\u00E1metro\ del\ mismo\ tipo\ de\ String\ m\u00E1s\ un\ char\ y\ un\ int
+comment2.params=n
+comment2.target=void\ setNss(java.lang.String)
+comment2.text=Cambia\ de\ valor\ a\ la\ variable\ NSS,\ recibiendo\ en\ su\ par\u00E1metro\ un\ String
+comment3.params=
+comment3.target=java.lang.String\ getNss()
+comment3.text=Regresa\ el\ valor\ que\ contiene\ la\ variable\ NSS
+comment4.params=e
+comment4.target=void\ setEdad(int)
+comment4.text=Cambia\ de\ valor\ a\ la\ variable\ Edad,\ recibiendo\ en\ su\ par\u00E1metro\ un\ int
+comment5.params=
+comment5.target=int\ getEdad()
+comment5.text=Regresa\ el\ valor\ que\ contiene\ la\ variable\ Edad
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Medico
+comment1.params=n\ p\ m\ s\ cedula
+comment1.target=Medico(java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ java.lang.String)
+comment1.text=Inicializa\ los\ atributos\ de\ la\ clase,\ recibiendo\ en\ su\ par\u00E1metro\ 5,\ 4\ de\ tipo\ String\ y\ uno\ de\ tipo\ char
+comment2.params=ce
+comment2.target=void\ setCedula(java.lang.String)
+comment2.text=Cambia\ de\ valor\ a\ la\ variable\ Cedula,\ recibiendo\ en\ su\ par\u00E1metro\ de\ tipo\ String
+comment3.params=
+comment3.target=java.lang.String\ getCedula()
+comment3.text=Regresa\ el\ valor\ que\ contiene\ la\ variable\ Cedula
+numComments=4
